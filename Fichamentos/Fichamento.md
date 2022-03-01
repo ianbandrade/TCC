@@ -1,0 +1,82 @@
+
+# Understanding coordination in global software engineering: A mixed-methods study on the use of meetings and Slack
+
+STRAY, V.; MOE, N. B. Understanding coordination in global software engineering:  Amixed-methods study on the use of meetings and slack.Journal of Systems and Software,v.  170,  p.  110717,  2020.  ISSN  0164-1212.  Disponível em:<https://www.sciencedirect.com/science/article/pii/S0164121220301564>.
+
+## 1. Fichamento de Conteúdo
+
+O artigo tem como base de estudo como a coordenação no campo de engenharia de software impacta times através de ferramentas de colaboração. Dessa forma, uma pesquisa foi realizada com o intuito de entender melhor como ocorre estes mecanismos. A partir disso, o assunto do trabalho foi estudado com base na ferramenta de colaboração Slack, utilizando um estudo de caso longitudinal pautado numa abordagem de métodos mistos com pesquisas, observações, entrevistas e registros de bate-papo (através do _chat_). Para investigar essa questão de pesquisa, foram estudadas reuniões e o uso do Slack em uma organização global que possui sites de desenvolvimento na China, Europa e Estados Unidos. Também, foi analizado os registros do Slack de dois sites, 19 entrevistas, 21 reuniões em quatro sites e 160 pessoas de toda a empresa. Juntamente, foram analisados documentos coletados ao longo de três anos. Já os resultados quantitativos mostram que os funcionários em projetos globais gastam em média 7 h 45 min por semana em reuniões agendadas e 8 h 54 min em reuniões não agendadas. Ainda, as equipes distribuídas eram consideravelmente maiores do que as equipes localizadas, e as pessoas que trabalhavam em equipes distribuídas passavam um pouco mais de tempo em reuniões por dia. Outrossim, foi descoberto que a baixa disponibilidade de pessoas-chave, a ausência de suporte organizacional para reuniões não agendadas e a atividade desequilibrada dos membros da equipe nas reuniões e no Slack eram barreiras para uma coordenação eficaz entre os sites. Os aspectos positivos do uso de ferramentas de colaboração em equipes distribuídas foram o aumento da conscientização da equipe e a comunicação informal e a redução da necessidade de e-mail. 
+
+## 2. Fichamento Bibliográfico 
+
+* _Distributed teams_ (equipes distribuídas) são as equipes distribuídas são compostas por funcionários que trabalham em vários locais diferentes. Na maioria das vezes, as equipes distribuídas consistem em um grupo de trabalhadores remotos espalhados em diferentes cidades ou países. (página 3).
+* _Teamwork in distributed teams_ (trabalho em equipe em equipes distribuídas) é a possibildiade de todos os membros da equipe estarem em discussões sobre uma ferramenta dedicada. (página 15).
+* _Agile software development_ (desenvolvimento ágil de software) é o desenvolvimento ágil de software, a coordenação do modo de grupo por meio de reuniões agendadas no nível da equipe é garantida por meio de práticas como reuniões de planejamento, reuniões diárias, demonstrações e reuniões retrospectivas (página 2).
+* _Collaboration tools_ (ferramentas de colaboração) são as ferramentas utilizadas para coodernação dos times. Pode-se destacar que a ferramenta Slack foi utilizada como objeto de estudo (página 3).
+
+## 3. Fichamento de Citações 
+
+* _"To investigate this research question, we studied meetings and the use of Slack in a global organization that has develop- ment sites in China, Europe, and the United States. We analyzed Slack logs from two sites, conducted 19 interviews, observed 21 meetings at four sites, and surveyed 160 people from the whole company. We also analyzed documents collected over a period of three years."_
+* _"The positive aspects of using collaboration tools in distributed teams were increased team awareness and informal communication and reduced the need for e-mail."_
+* _"Coordination on Slack can be categorized as vertical when team members communicate with their manager and horizontal when communicating with their team members. We argue that when project members communicate in group channels, they are exercising group-mode coordination because a group of people can follow and join the conversation."_
+
+# Assessing individual contributions to software engineering projects with git logs and user stories
+
+BUFFARDI, K. Assessing individual contributions to software engineering projects withgit logs and user stories. In:.Proceedings  of  the  51st  ACM  Technical  Symposiumon Computer Science Education. New York, NY, USA: Association for Computing Machinery, 2020. p. 650–656. ISBN 9781450367936. Disponível em:<https://doi.org/10.1145/3328778.3366948>
+
+## 1. Fichamento de Conteúdo
+
+O artigo se inicia contextualizando o ambiente acadêmico dentro de Engenharia de Software, onde geralmente grandes projetos acontecem e vários alunos participam intensamente dessas atividades. Logo em seguida, é apresentada a problemática, que está em torno da dificuldade de avaliação destes alunos, que participam do processo de desenvolvimento, já que, o produto produzido é fruto de esforços colaborativos. Assim, o estudo implica justamente na exploração de medições das contribuições dos indivíduos para suas respectivas equipes. Consequentemente, para obter os resultados do estudo, foi selecionado e analisado dez projetos de uma equipe de Engenharia de Software (n=42) e foram feitas avaliações de contribuições individuais usando avaliação automatizada do histórico do sistema de controle de versão (git logs) e histórias de usuários concluídas em seus quadros de gerenciamento de projetos (Kanban). Como resultado, foi observado que a avaliação de apenas um instrutor pode indicar subjetividade e, dessa forma, se constituí como uma ameaça à validade. Porém, ao realizar processos como avaliação de pares, jutamente com o instrutor responsável pela matéria os níveis de classificações ficam mais assertivos e oferecem evidências mais objetivas. Medidas quantitativas de contribuições de código (commits do Git) e mudanças de linha (inserções e exclusões), bem como o número de histórias de usuários concluídas e seus respectivos valores de pontos são importantes, mas o número de compromissos de um aluno – em relação ao total de compromissos da equipe – está associado às avaliações dos colegas de suas contribuições.
+
+## 2. Fichamento Bibliográfico 
+
+* _Git_ é o sistema de controle de versão (página 1).
+* _Halo Effect_ (Efeito Halo) é a possibilidade de que a avaliação de um indivíduo possa, sob um algum viés, intervir no julgamento sobre outros fatores, afetando o resultado final. (página 2).
+* _User stories_ (histórias de usuário) descrevem os recursos do software da perspectiva do cliente (ou usuário final) para explicar uma meta que eles desejam alcançar. (página 2).
+
+## 3. Fichamento de Citações 
+
+* _"The Halo Effect describes a bias in performance appraisal where the evaluator’s assessment of an individual is unduly influ- enced by a single, sometimes unrelated, characteristic. For example, an evaluator who appreciates an individual’s agreeableness may rate that individual higher on technical skills–even when lacking– because of the favorable impression made by their personality."_
+* _"With user story and Git log artifacts, instructors gain access to quantitative measurements of individuals’ contributions. However, Campbell observes that "The more any quantitative social indicator is used for social decision-making, the more subject it will be to cor- ruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor" [11]."_
+* _"Software configuration management and version control is fundamental to software development and is pervasive in Software Engineering curricula [2]."_
+
+# Knowledge Management in Software Engineering 
+
+RUS, I.; LINDVALL, M.; SINHA, S. Knowledge management in software engineering. IEEE software, Citeseer, v.19, n.3, p.26–38, 2002.
+
+## 1. Fichamento de Conteúdo
+
+## 2. Fichamento Bibliográfico 
+
+## 3. Fichamento de Citações 
+
+
+# The influence of agile methodology (scrum) on software project management 
+
+HAYAT, F. et al. The influence of agile methodology (scrum) on software project management. In:2019 20th IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD). [S.l.:  s.n.], 2019. p. 145–149.
+
+## 1. Fichamento de Conteúdo
+
+## 2. Fichamento Bibliográfico 
+
+## 3. Fichamento de Citações 
+
+# Empirical study of the evaluation of perspectives to knowledge capitalisation in Brazilian software industry 
+
+LEAL, G. C. L.; HUZITA, E. H. M.; STADZISZ, P. C. Empirical study of the evaluation of perspectives  to knowledge capitalisation in brazilian software industry. IET Softw.,v. 12, p. 120–128, 2018.
+
+## 1. Fichamento de Conteúdo
+
+## 2. Fichamento Bibliográfico 
+
+## 3. Fichamento de Citações 
+
+# Improvement in Software Development Process and Software Product through Knowledge Management
+
+JAIN, R. Improvement in software development process and software product through knowledge management. International Journal of Computer Technology and Applications, Citeseer, v.2, n.5, p.1557–1562, 2011.
+
+## 1. Fichamento de Conteúdo
+
+## 2. Fichamento Bibliográfico 
+
+## 3. Fichamento de Citações 
