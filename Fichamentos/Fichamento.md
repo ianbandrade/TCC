@@ -36,8 +36,8 @@ O artigo se inicia contextualizando o ambiente acadêmico dentro de Engenharia d
 
 ## 3. Fichamento de Citações 
 
-* _"The Halo Effect describes a bias in performance appraisal where the evaluator’s assessment of an individual is unduly influ- enced by a single, sometimes unrelated, characteristic. For example, an evaluator who appreciates an individual’s agreeableness may rate that individual higher on technical skills–even when lacking– because of the favorable impression made by their personality."_
-* _"With user story and Git log artifacts, instructors gain access to quantitative measurements of individuals’ contributions. However, Campbell observes that "The more any quantitative social indicator is used for social decision-making, the more subject it will be to cor- ruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor" [11]."_
+* _"The Halo Effect describes a bias in performance appraisal where the evaluator’s assessment of an individual is unduly influenced by a single, sometimes unrelated, characteristic. For example, an evaluator who appreciates an individual’s agreeableness may rate that individual higher on technical skills–even when lacking– because of the favorable impression made by their personality."_
+* _"With user story and Git log artifacts, instructors gain access to quantitative measurements of individuals’ contributions. However, Campbell observes that "The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor" [11]."_
 * _"Software configuration management and version control is fundamental to software development and is pervasive in Software Engineering curricula [2]."_
 
 # Knowledge Management in Software Engineering 
@@ -69,9 +69,19 @@ HAYAT, F. et al. The influence of agile methodology (scrum) on software project 
 
 ## 1. Fichamento de Conteúdo
 
+O artigo evidencia que o gerenciamento de projetos de software tem papel principal na indústria de software. Porque inclui diferentes processos e áreas de conhecimento. A tripla restrição do projeto de software como tempo, custo e escopo depende diretamente do requisito do projeto e a metodologia ágil é a maneira iterativa de desenvolver o projeto de software para mudanças frequentes, entrega rápida e redução de riscos. Por isso, o gerenciamento de projetos de software também desempenha um papel importante em projetos de software baseados em métodos ágeis. Dessa forma, a metodologia ágil influencia o gerenciamento de projetos de software em 10 áreas de conhecimento. Por fim, o estudo realizou uma pesquisa com diferentes empresas de software e mostrou que quase todas as empresas de software utilizam o desenvolvimento ágil (Scrum) e a utilização da metodologia tem um impacto positivo na gestão de projetos de software.
+
 ## 2. Fichamento Bibliográfico 
 
+* _Agile methodology_ é um dos métodos que ajudam a levar ao sucesso de qualquer software (página 1).
+* _Software project management_ inclui as áreas de conhecimento, ferramentas e técnicas. É composto por dez áreas de conhecimento que tem quatro núcleos e seis são de apoio (página 2).
+* _Scrum_ é um framework de metodologia ágil que fornece flexibilidade para controlar e gerenciar os requisitos, bem como o desenvolvimento de software (página 3).
+
 ## 3. Fichamento de Citações 
+
+* _"The agile methods highlight more on people, their association with each other, working software, client coalition, and alteration, rather than on methods, tools, contracts and plans."_
+* _"we use scrum framework to find out the impact of agile methodology on software project management."_
+* _"Scrum has positive influence on the time, cost, scope, Quality, Risk and scope of the project."_
 
 # Empirical study of the evaluation of perspectives to knowledge capitalisation in Brazilian software industry 
 
@@ -79,9 +89,19 @@ LEAL, G. C. L.; HUZITA, E. H. M.; STADZISZ, P. C. Empirical study of the evaluat
 
 ## 1. Fichamento de Conteúdo
 
+O artigo aborda a capitalização do conhecimento como direcionador das atividades de uso, aproveitamento e reaproveitamento do conhecimento para a realização de novas tarefas, incluindo aspectos técnicos e gerenciais. Especificamente, considerando o desenvolvimento de software, a capitalização do conhecimento demanda uma análise que considere quatro perspectivas complementares e interdependentes sobre o conhecimento: valor, segurança, utilidade e status. Essas perspectivas focam diferentes traços segundo os quais o conhecimento pode ser analisado, além de fornecer recursos para uma melhor conscientização sobre o conhecimento e o seu tratamento necessário. A partir disso, é apresentado um estudo empírico com o objetivo de avaliar a relevância dessas perspectivas por meio de um questionário de pesquisa, distribuído para empresas de desenvolvimento de software no mercado brasileiro. Trezentos e trinta e nove indivíduos de diferentes 339 empresas participaram. Os resultados indicam que as perspectivas são relevantes para avaliar o conhecimento e reforçar a relevância de explorar a capitalização do conhecimento no desenvolvimento de software; portanto, há uma compreensão clara de como os ativos de conhecimento envolvidos podem ser analisados ​​ou avaliados.
+
 ## 2. Fichamento Bibliográfico 
 
+* _Knowledge capitalisation_ tem como objetivo construir informações abrangentes e melhorá-las por meio da divulgação. É um processo que utiliza, explora e reutiliza o conhecimento, além de incluir aspectos técnicos e gerenciais, que vão desde atividades relacionadas à identificação do conhecimento até sua avaliação (página 1).
+* _Explicit knowledge_ é estruturado e pode ser facilmente verbalizado, bem como transmitido em linguagem formal e sistemática (página 1).
+* _Tacit knowledge_ é altamente pessoal e difícil de ser formalizado, pois está profundamente enraizado nas ações, experiências, ideias, valores ou mesmo nas emoções do indivíduo (página 1).
+
 ## 3. Fichamento de Citações 
+
+* _"Knowledge capitalisation is an important part of the organisational knowledge creation process."_
+* _"Singh e colaboradores [22] apontam que os principais elementos impactantes na GC são: cultura, liderança, planejamento estratégico, recursos financeiros, infraestrutura tecnológica e integração de sistemas."_
+* _"Knowledge in software engineering is dynamic and evolves with technology, organisational culture and practises [30]."_
 
 # Improvement in Software Development Process and Software Product through Knowledge Management
 
