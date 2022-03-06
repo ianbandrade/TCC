@@ -1,5 +1,5 @@
 1. BUFFARDI, K. Assessing individual contributions to software engineering projects withgit logs and user stories. In:.Proceedings  of  the  51st  ACM  Technical  Symposiumon Computer Science Education. New York, NY, USA: Association for Computing Machinery, 2020. p. 650–656. ISBN 9781450367936. Disponível em:<https://doi.org/10.1145/3328778.3366948>
-2. LEAL, G. C. L.; HUZITA, E. H. M.; STADZISZ, P. C. Empirical study of the evaluation of perspectives to knowledge capitalisation in brazilian software industry. IET Softw.,v. 12, p. 120–128, 2018.
+2. LEAL, G. C. L.; HUZITA, E. H. M.; STADZISZ, P. C. Empirical study of the evaluation of perspectives to knowledge capitalisation in brazilian software industry. IET Softw., v. 12, p. 120–128, 2018.
 3. JAIN, R. Improvement in software development process and software product through knowledge management. International Journal of Computer Technology and Applications, Citeseer, v.2, n.5, p.1557–1562, 2011.
 4. RUS, I.; LINDVALL, M.; SINHA, S. Knowledge management in software engineering. IEEE software, Citeseer, v.19, n.3, p.26–38, 2002.
 5. HAYAT, F. et al. The influence of agile methodology (scrum) on software project management. In:2019 20th IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD). [S.l.:  s.n.], 2019. p. 145–149.
