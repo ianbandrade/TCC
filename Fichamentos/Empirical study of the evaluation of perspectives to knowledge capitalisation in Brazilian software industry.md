@@ -1,6 +1,6 @@
 # Empirical study of the evaluation of perspectives to knowledge capitalisation in Brazilian software industry 
 
-LEAL, G. C. L.; HUZITA, E. H. M.; STADZISZ, P. C. Empirical study of the evaluation of perspectives  to knowledge capitalisation in brazilian software industry. IET Softw.,v. 12, p. 120–128, 2018.
+LEAL, G. C. L.; HUZITA, E. H. M.; STADZISZ, P. C. Empirical study of the evaluation of perspectives to knowledge capitalisation in brazilian software industry. IET Softw.,v. 12, p. 120–128, 2018.
 
 ## 1. Fichamento de Conteúdo
 
