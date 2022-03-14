@@ -7,19 +7,11 @@ on:
       - master
   
 jobs: 
-  commit:
-    name: Commit to master branch of ICEI/TCC repo
+  push:
     runs-on: ubuntu-latest
     steps:
-      - name: Pushes to another repository
-        id: push_directory
-        uses: ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-tcci-5308100-pes-gabriel-chaves-ian-bittencourt@master
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      - name: Push to TCC
+        uses: ad-m/github-push-action@master
         with:
-          destination-github-username: 'ianbandrade'
-          destination-repository-name: 'ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-tcci-5308100-pes-gabriel-chaves-ian-bittencourt'
-          user-email: ian.andrade@sga.pucminas.br
-          commit-message: See ORIGIN_COMMIT from $GITHUB_REF
-          target-branch: master
-  
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-tcci-5308100-pes-gabriel-chaves-ian-bittencourt
