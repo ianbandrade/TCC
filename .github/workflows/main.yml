@@ -15,7 +15,7 @@ jobs:
         id: push_directory
         uses: ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-tcci-5308100-pes-gabriel-chaves-ian-bittencourt@master
         env:
-          API_TOKEN_GITHUB: ${{ TOKENS.API_TOKEN_GITHUB }}
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           destination-github-username: 'ICEI-PUC-Minas-PPLES-TI'
           destination-repository-name: 'plf-es-2022-1-tcci-5308100-pes-gabriel-chaves-ian-bittencourt'
