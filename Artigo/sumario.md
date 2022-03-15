@@ -1,18 +1,18 @@
-# Título do trabalho
+# 
 
-1. Nome do aluno 1
-1. Nome do aluno 2 (se houver)
+1. Gabriel Moreira Chaves
+2. Ian Bittencourt Andrade 
 
 * Nome do orientador de conteúdo
 * Nome do orientador acadêmico
 
 ## Introdução
 
-1. A área da Engenharia de Software tratada neste trabalho é.... _[incluir a frase exatamente como ela aparece no seu projeto]_
-1. O problema que este trabalho busca resolver nessa área é... _[incluir a frase exatamente como ela aparece no seu projeto]_
-1. Resolver este problema é relevante por que...
-1. O objetivo geral deste trabalho é _[incluir a frase exatamente como ela aparece no seu projeto]_
-1. Os *três* objetivos específicos deste trabalho são _[incluir exatamente como aparece no seu projeto]_
+1. A área da Engenharia de Software tratada neste trabalho é a Gerência de Conhecimento em Engenharia de Software
+2. O problema que este trabalho busca resolver nessa área é o Truck Factor a partir da falta de elementos de Gerência de Conhecimento
+3. Resolver este problema é relevante porque...
+4. O objetivo geral deste trabalho é _[incluir a frase exatamente como ela aparece no seu projeto]_
+5. Os *três* objetivos específicos deste trabalho são _[incluir exatamente como aparece no seu projeto]_
 
 ## Fundamentação Teórica
 
