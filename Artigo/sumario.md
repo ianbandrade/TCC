@@ -3,16 +3,16 @@
 1. Gabriel Moreira Chaves
 2. Ian Bittencourt Andrade 
 
-* Nome do orientador de conteúdo
-* Nome do orientador acadêmico
+* Jose Laerte Pires Xavier Junior
+* Marco Rodrigo Costa
 
 ## Introdução
 
 1. A área da Engenharia de Software tratada neste trabalho é a Gerência de Conhecimento em Engenharia de Software
-2. O problema que este trabalho busca resolver nessa área é o Truck Factor a partir da falta de elementos de Gerência de Conhecimento
-3. Resolver este problema é relevante porque...
-4. O objetivo geral deste trabalho é _[incluir a frase exatamente como ela aparece no seu projeto]_
-5. Os *três* objetivos específicos deste trabalho são _[incluir exatamente como aparece no seu projeto]_
+2. O problema que este trabalho busca resolver nessa área é adificuldade de gestão de conhecimento a partir da rotatividade de integrantes de uma equipe multidisciplinar de Engenharia de Software
+3. Resolver este problema é relevante porque a gestão de conhecimento e a viabilidade do projeto tornam-se fatores de risco para as equipes
+4. O objetivo geral deste trabalho é propor uma abordagem de avaliação da qualidade e da eficiência da gestão de conhecimento dada a rotatividade de integrantes de uma equipe multidisciplinar de Engenharia de Software
+5. Os *três* objetivos específicos deste trabalho são: 1) analisar o impacto na gestão de conhecimento a partir da rotatividade dos profissionais; 2) identificar as características e sub-características de qualidade mais relevantes para a gestão de conhecimento; 3) identificar os cenários em que mais ocorre a rotação de indivíduos.
 
 ## Fundamentação Teórica
 
