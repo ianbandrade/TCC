@@ -16,9 +16,9 @@
 
 ## Fundamentação Teórica
 
-1. O conceito principal associado a este trabalho é o GitHub Wiki. A sua definição neste trabalho é conforme definido no trabalho "Collaborating in GitHub" pela autora Nicky Bleiel.
-1. O conceito secundário associado a este trabalho é o Wiki. A sua definição neste trabalho é conforme definido no livro "The wiki way: Quick collaboration on the Web" pelos autores Bo Leuf e Ward Cunningham.
-1. O conceito terciário associado a este trabalho é a Gestão de Conhecimento. A sua definição neste trabalho é conforme definido no trabalho "Knowledge management in software engineering" pelos autores Loana Rus e Mikael Lindvall.
+1. O conceito principal deste trabalho se relaciona ao GitHub Wiki. A sua definição neste trabalho segue conforme definido no trabalho "Collaborating in GitHub" pela autora Nicky Bleiel.
+1. O conceito secundário deste trabalho se relaciona aos Wikis. A sua definição neste trabalho segue conforme definido no livro "The wiki way: Quick collaboration on the Web" pelos autores Bo Leuf e Ward Cunningham.
+1. O conceito terciário deste trabalho se relaciona à Gestão de Conhecimento. A sua definição neste trabalho segue conforme definido no trabalho "Knowledge management in software engineering" pelos autores Loana Rus e Mikael Lindvall.
 
 ## Trabalhos Relacionados
 
