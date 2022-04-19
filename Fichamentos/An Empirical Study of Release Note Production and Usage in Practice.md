@@ -9,6 +9,6 @@ O artigo fala sobre a importância de uma nota de lançamento e sua usabilidade,
 ## 2. Fichamento Bibliográfico
 
 - _"Release note"_ é um artefato essencial que informa os usuários sobre mudanças vitais do projeto de uma versão para outra e serve como um meio crítico de interação entre (página 1).
-- _""_
+- _"Formal software artifacts"_ são documentos de requisitos e o código-fonte, ou artefatos informais de software, como listas de discussão de desenvolvedores
 
 ## 3. Fichamento de Citações
