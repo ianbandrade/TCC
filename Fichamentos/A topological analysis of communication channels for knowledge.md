@@ -1,5 +1,4 @@
 # A topological analysis of communication channels for knowledge
-sharing in contemporary GitHub projects
 
 Tantisuwankul, J., Nugroho, Y. S., Kula, R. G., Hata, H., Rungsawang, A., Leelaprute, P., and Matsumoto, K. (2019). A topological analysis of communication channels for knowledge sharing in contemporary github projects. Journal of Systems and Software, 158:110416.
 
