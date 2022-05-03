@@ -30,8 +30,8 @@
 
 ## Materiais e Métodos
 
-1. O tipo de pesquisa adotado neste trabalho é pesquisa descritiva, por que é irá descrever características e funções dos conteúdos dos GitHub Wikis dos repositórios open source mais populares;
-2. 2. Os materiais utilizados neste trabalho são .... [ex.: software, computadores, dados, etc]
-3. Os métodos empregados neste trabalho são .... [ex.: método de amostragem, método de análise de correlação, método de agrupamento, etc]
-4. As métricas de avaliação são .... [ex.: tempo de resposta, taxa de erros, mutation score, cobertura, latência, etc]
-5. As etapa de execução do trabalho são .... [listar as etapa de execução]
+1. O tipo de pesquisa adotado neste trabalho é pesquisa descritiva. A pesquisa descreve características e finalidades dos conteúdos dos GitHub Wikis.
+2. Os materiais utilizados neste trabalho utiliza dados extraídos da GitHub API GraphQL v4, analisando e manipulando esses dados com a linguagem de programação Python.
+3. Os métodos empregados neste trabalho são a extração de dados de API, classificação utilizando a técnica de Close Card Sorting e aprendizado de máquina supervisionado para o aprendizado de máquina utilizando algoritmos de classificação.
+4. As métricas de avaliação são as pontuações de F1 Score.
+5. As etapa de execução do trabalho são: extrair os dados da GitHub API GraphQL v4; classificar o conteúdo dos GitHub Wikis; treinar algoritmos de classificação; avaliar e comparar o desempenho dos algoritmos a partir dos valores de F1 score.
