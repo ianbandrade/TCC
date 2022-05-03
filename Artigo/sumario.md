@@ -8,11 +8,11 @@
 
 ## Introdução
 
-1. A área da Engenharia de Software tratada neste trabalho é a Gerência de Conhecimento em Engenharia de Software
-2. O problema que este trabalho busca resolver nessa área é a dificuldade de gestão de conhecimento a partir da rotatividade de integrantes de uma equipe multidisciplinar de Engenharia de Software
-3. Resolver este problema é relevante porque a gestão de conhecimento e a viabilidade do projeto tornam-se fatores de risco para as equipes
-4. O objetivo geral deste trabalho é propor uma abordagem de avaliação da qualidade e da eficiência da gestão de conhecimento dada a rotatividade de integrantes de uma equipe multidisciplinar de Engenharia de Software
-5. Os *três* objetivos específicos deste trabalho são: 1) analisar o impacto na gestão de conhecimento a partir da rotatividade dos profissionais; 2) identificar as características e sub-características de qualidade mais relevantes para a gestão de conhecimento; 3) identificar os cenários em que mais ocorre a rotação de indivíduos.
+1. A área da Engenharia de Software tratada neste trabalho é a Gerência de Conhecimento em Engenharia de Software;
+2. O problema que este trabalho busca resolver nessa área é a a ausência de uma compreensão sistemática do conteúdo de um GitHub Wiki em projetos *open source*;
+3. Resolver este problema é relevante porque com a compreensão sistemática, será possível identificar a finalidade e a relevância dos GitHub Wikis com intenção de facilitar aos usuários e proprietários de repositórios a descoberta de informações relevantes, buscando promover uma análise crítica sobre as estruturas que estão sendo abordadas nas construções dos GitHub Wikis, de modo a captar a presença de consistências e padrões aplicados às estruturas;
+4. O objetivo geral deste trabalho é realizar uma análise sistemática do conteúdo presente nos GitHub Wikis dos repositórios *open source* mais populares da plataforma;
+5. Os *três* objetivos específicos deste trabalho são: 1) propor algoritmos de classificação de conteúdo de GitHub Wikis; 2) identificar quais são as categorias mais recorrentes nos conteúdos dos GitHub Wikis; 3) identificar quais modelos de aprendizado de máquina utilizados melhor realiza as classificações dos conteúdos dos GitHub Wikis.
 
 ## Fundamentação Teórica
 
