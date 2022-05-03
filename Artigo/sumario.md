@@ -1,10 +1,10 @@
-#
+# Análise sistemática do conteúdo dos GitHub Wikis dos repositórios open source mais populares
 
 1. Gabriel Moreira Chaves
 2. Ian Bittencourt Andrade
 
-* Jose Laerte Pires Xavier Junior
-* Marco Rodrigo Costa
+- Jose Laerte Pires Xavier Junior
+- Marco Rodrigo Costa
 
 ## Introdução
 
@@ -24,7 +24,7 @@
 
 1. O trabalho mais relacionado é ...., publicado no ano ..., por que ....
 1. O segundo trabalho mais relacionado é .... , publicado no ano ..., por que ....
-1. O terceiro trabalho mais relacionado é ...., publicado no ano ...,  por que ....
+1. O terceiro trabalho mais relacionado é ...., publicado no ano ..., por que ....
 
 ## Materiais e Métodos
 

@@ -1,6 +1,6 @@
 # A topological analysis of communication channels for knowledge
 
-Tantisuwankul, J., Nugroho, Y. S., Kula, R. G., Hata, H., Rungsawang, A., Leelaprute, P., and Matsumoto, K. (2019). A topological analysis of communication channels for knowledge sharing in contemporary github projects. Journal of Systems and Software, 158:110416.
+Jirateep Tantisuwankul, Yusuf Sulistyo Nugroho, Raula Gaikovina Kula, Hideaki Hata, Arnon Rungsawang, Pattara Leelaprute, and Kenichi Matsumoto. 2019. A topological analysis of communication channels for knowledge sharing in contemporary GitHub projects. J. Syst. Softw. 158, C (Dec 2019). DOI: [10.1016/j.jss.2019.110416](https://doi.org/10.1016/j.jss.2019.110416)
 
 ## 1. Fichamento de Conteúdo
 
