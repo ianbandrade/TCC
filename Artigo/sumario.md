@@ -34,4 +34,4 @@
 2. Os materiais utilizados neste trabalho utiliza dados extraídos da GitHub API GraphQL v4, analisando e manipulando esses dados com a linguagem de programação Python.
 3. Os métodos empregados neste trabalho são a extração de dados de API, classificação utilizando a técnica de Close Card Sorting e aprendizado de máquina supervisionado para o aprendizado de máquina utilizando algoritmos de classificação.
 4. As métricas de avaliação são as pontuações de F1 Score.
-5. As etapa de execução do trabalho são: extrair os dados da GitHub API GraphQL v4; classificar o conteúdo dos GitHub Wikis; treinar algoritmos de classificação; avaliar e comparar o desempenho dos algoritmos a partir dos valores de F1 score.
+5. As etapa de execução do trabalho são: extrair os dados da GitHub API GraphQL v4 e dos repositórios; desenvolver os algoritmos de envio e coleta dos dados da _survey_; classificar o conteúdo dos GitHub Wikis; analisar e manipular os resultados das classificações realizadas pelos pesquisadores e colaboradores; treinar modelos de classificação; avaliar e comparar o desempenho dos modelos a partir dos valores de F1 score.
