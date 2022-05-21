@@ -10,7 +10,7 @@
 
 1. A área da Engenharia de Software tratada neste trabalho é a Gestão do Conhecimento em Engenharia de Software;
 2. O problema que este trabalho busca resolver nessa área é a ausência de trabalhos que caracterizam o conteúdo textual de um GitHub Wiki em repositórios _open source_;
-3. Resolver este problema é relevante porque com a caracterização, será possível identificar a finalidade e a relevância dos GitHub Wikis com intenção de facilitar aos usuários e proprietários de repositórios a descoberta de informações relevantes, buscando promover uma visão geral sobre as estruturas que estão sendo abordadas nas construções dos GitHub Wikis, de modo a captar a presença de consistências e padrões aplicados às estruturas.
+3. Resolver este problema é relevante porque com a caracterização, será possível identificar a finalidade e a relevância dos GitHub Wikis com intenção de facilitar aos usuários e proprietários de repositórios a descoberta de informações relevantes, buscando promover uma visão geral sobre as estruturas que estão sendo abordadas nas construções dos GitHub Wikis, de modo a captar a presença de consistências e padrões aplicados às estruturas;
 4. O objetivo geral deste trabalho é avaliar e caracterizar o conteúdo textual presente nos GitHub Wikis dos repositórios _open source_;
 5. Os *três* objetivos específicos deste trabalho são: 1) propor modelos de classificação de conteúdo de GitHub Wikis; 2) identificar quais são as categorias mais recorrentes no conteúdo dos GitHub Wikis; 3) identificar quais modelos de aprendizado de máquina utilizados melhor realiza as classificações do conteúdo dos GitHub Wikis.
 
