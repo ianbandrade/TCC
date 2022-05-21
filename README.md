@@ -1,4 +1,4 @@
-# Análise sistemática do conteúdo dos GitHub Wikis dos repositórios open source mais populares
+# Caracterização do Conteúdo Textual do GitHub Wiki de Repositórios _Open Source_
 
 O projeto tem como objetivo realizar uma análise sistemática do conteúdo presente nos GitHub Wikis dos repositórios open source mais populares do GitHub. A partir desse objetivo, algoritmos de classificação de conteúdos de GitHub Wikis são propostos e as categorias mais recorrentes nos conteúdos são identificadas. A partir da avaliação dos algoritmos, é identificado qual dos modelos de aprendizado de máquina utilizados melhor realiza as classificações dos conteúdos dos GitHub Wikis.
 
