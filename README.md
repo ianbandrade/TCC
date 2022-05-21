@@ -1,6 +1,6 @@
 # Caracterização do Conteúdo Textual do GitHub Wiki de Repositórios _Open Source_
 
-O projeto tem como objetivo realizar uma análise sistemática do conteúdo presente nos GitHub Wikis dos repositórios open source mais populares do GitHub. A partir desse objetivo, algoritmos de classificação de conteúdos de GitHub Wikis são propostos e as categorias mais recorrentes nos conteúdos são identificadas. A partir da avaliação dos algoritmos, é identificado qual dos modelos de aprendizado de máquina utilizados melhor realiza as classificações dos conteúdos dos GitHub Wikis.
+O  GitHub Wiki é utilizado para a construção e definição da documentação e é uma das primeiras impressões em um repositório de software na plataforma GitHub. Todavia, ainda não existia um trabalho que caracterizasse o conteúdo textual de um GitHub Wiki em repositórios _open source_. Dessa forma, este estudo tem por objetivo identificar a finalidade e a relevância dos GitHub Wikis, a partir da categorização, com intenção de facilitar aos usuários e proprietários de repositórios a descoberta de informações relevantes, por uma pesquisa descritiva, realizada através de um estudo de caso, acompanhado de um _survey_, buscando promover uma visão geral sobre as estruturas que estão sendo abordadas nas construções dos GitHub Wikis, de modo a captar a presença de consistências e padrões aplicados às estruturas.
 
 ## Alunos integrantes da equipe
 
