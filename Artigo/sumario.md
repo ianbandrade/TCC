@@ -1,7 +1,7 @@
 # Classificação do Conteúdo Textual do GitHub Wiki de Repositórios _Open Source_
 
 1. Gabriel Moreira Chaves
-2. Ian Bittencourt Andrade
+2. Ian Bittencourt Andrade Jacinto
 
 - Jose Laerte Pires Xavier Junior
 - Marco Rodrigo Costa

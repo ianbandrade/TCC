@@ -5,7 +5,7 @@ O  GitHub Wiki é utilizado para a construção e definição da documentação 
 ## Alunos integrantes da equipe
 
 - Gabriel Moreira Chaves
-- Ian Bittencourt Andrade
+- Ian Bittencourt Andrade Jacinto
 
 ## Professores responsáveis
 
