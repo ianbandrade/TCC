@@ -1,4 +1,4 @@
-# Identificação da estrutura de Github Wikis a partir de aprendizagem de máquina
+# Identificação da estrutura de GitHub Wikis a partir de aprendizagem de máquina
 
 1. Gabriel Moreira Chaves
 2. Ian Bittencourt Andrade Jacinto
