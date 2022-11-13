@@ -1,18 +1,19 @@
-# Classificação do Conteúdo Textual do GitHub Wiki de Repositórios _Open Source_
+# Identificação da estrutura de Github Wikis a partir de aprendizagem de máquina
 
 1. Gabriel Moreira Chaves
 2. Ian Bittencourt Andrade
 
 - Jose Laerte Pires Xavier Junior
 - Marco Rodrigo Costa
+- Hugo Bastos de Paula
 
 ## Introdução
 
 1. A área da Engenharia de Software tratada neste trabalho é a Gestão do Conhecimento em Engenharia de Software;
-2. O problema que este trabalho busca resolver nessa área é aa ausência de trabalhos que classificam o conteúdo textual de um GitHub Wiki em repositórios _open source_;
-3. Resolver este problema é relevante porque com a classificação, será possível identificar a finalidade e a relevância dos GitHub Wikis com intenção de facilitar aos usuários e proprietários de repositórios a descoberta de informações relevantes, buscando promover uma visão geral sobre as estruturas que estão sendo abordadas nas construções dos GitHub Wikis, de modo a captar a presença de consistências e padrões aplicados às estruturas;
-4. O objetivo geral deste estudo é avaliar e classificar o conteúdo textual presente no GitHub Wiki em repositórios _open source_;
-5. Os *três* objetivos específicos deste trabalho são: 1) propor modelos de classificação de conteúdo de GitHub Wikis; 2) identificar quais são as categorias mais recorrentes no conteúdo dos GitHub Wikis; 3) identificar quais modelos de aprendizado de máquina utilizados melhor realiza as classificações do conteúdo dos GitHub Wikis.
+2. O problema que este trabalho busca resolver nessa área é a ausência de trabalhos que avaliam a utilização de aprendizagem de máquina para determinar o conteúdo das páginas dos GitHub Wikis;
+3. Resolver este problema é relevante porque com a classificação, será possível identificar a estrutura dos GitHub Wikis com intenção de facilitar aos usuários e proprietários de repositórios a descoberta de informações relevantes, buscando promover uma visão geral sobre as estruturas que estão sendo abordadas nas construções dos GitHub Wikis, de modo a captar a presença de consistências e padrões aplicados a essas estruturas;
+4. O objetivo geral deste estudo é avaliar a utilização de aprendizagem de máquina para determinar a estrutura de conteúdo dos GitHub Wikis;
+5. Os *três* objetivos específicos deste trabalho são: 1) classificar uma base de dados de nomes de páginas de GitHub Wikis por tipo de conteúdo; 2) treinar modelos de aprendizagem de máquina para classificação dessas páginas em função de seus conteúdos; 3) realizar a avaliação dos modelos de aprendizagem de máquina.
 
 ## Fundamentação Teórica
 
@@ -30,8 +31,6 @@
 
 ## Materiais e Métodos
 
-1. O tipo de pesquisa adotado neste trabalho é a pesquisa descritiva. A pesquisa descreve as categorias do conteúdo textual presente nos GitHub Wikis dos repositórios _open source_ a partir de dados qualitativos;
-2. Os materiais utilizados neste trabalho são os dados coletados a partir da GitHub API GraphQL v4 e dos repositórios de GitHub Wiki. Os dados são analisados e manipulados com a utilização da linguagem de programação Python assim como o treinamento e avaliação dos modelos de aprendizado de máquina.
-3. Os métodos empregados neste trabalho são: 1) extração de dados de API; 2) aprendizado de máquina supervisionado utilizando os algoritmos de classificação: _Support Vector Machines_, _Logistic Regression_, _Random Forest_, _k-Nearest Neighbors_ e _Multinomial Naive Bayes_; 3) _survey_ para a coleta de dados de entrada para os modelos de aprendizado de máquina.
-4. As métricas de avaliação são as pontuações da métrica de desempenho F1 Score obtidas pelos modelos de aprendizado de máquina, uma média harmônica calculada com base na precisão e na revocação dos modelos.
-5. As etapa de execução do trabalho são: 1) Extração dos dados da API do GitHub; 2) Extração dos dados dos repositórios; 3) Algoritmo do envio do _survey_; 4) Algoritmo da coleta da _survey_; 5) Classificação do conteúdo dos GitHub Wikis; 6) Análise e manipulação dos resultados das classificações; 7) Treinamento dos modelos de aprendizado de máquina; 8) Discussão e avaliação dos resultados.
+1. O tipo de pesquisa adotado neste trabalho é um estudo de caso, caracterizando-se como uma pesquisa descritiva. O estudo de caso é realizado com a intenção de coletar dados qualitativos a partir do conteúdo dos GitHub Wikis;
+2. Os materiais utilizados neste trabalho são os dados coletados a partir da GitHub API REST e dos repositórios de GitHub Wiki. Os dados são analisados e manipulados com a utilização da linguagem de programação Python assim como o treinamento e avaliação dos modelos de aprendizado de máquina;
+3. Os métodos empregados neste trabalho são: 1) Coletar os repositórios pela API REST do GitHub; 2) Filtrar pelos repositórios que possuem o campo `has_wiki` positivo; 3) Tentar clonar os repositórios com o campo `has_wiki` positivo; 4) Extrair os nomes de páginas dos repositórios clonados; 5) Filtrar pelos repositórios com quantidade de estrelas maior ou igual a 4.500; 6) Filtrar os repositórios com até 7 páginas; 7) Filtrar por páginas que possuam nome com caracteres em inglês; 8) Filtrar por páginas que possuam pelo menos 1Mb de tamanho; 9) Filtrar por páginas que possuam seu conteúdo em inglês; 10) Aplicar as abstrações; 11) Gerar a base de dados para classificação. A partir da coleta, os dados são classificados de forma manual pelos autores. Para o treinamento, são definidas 6 fases: 1) Utilizar as colunas _abstracted_ (colunas com os nomes das páginas abstraídas) e _classification_ (classificações realizadas pelos autores); 2) Remover classificações referentes à categoria `Other`; 3) Aplicar a técnica de extração de features tf-idf com ngramas de 1 a 3 palavras; 4) Separar as classificações em base de treinamento e teste; 5) Treinar os modelos de aprendizado de máquina; 6) Analisar os resultados obtidos do aprendizado (_recall_, _precision_ e F1 _score_).    
